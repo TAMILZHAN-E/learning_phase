@@ -17,7 +17,7 @@ function App(){
   return (
     <div>
       <statevsprops/>
-      changes to test github
+      changes to test github.
     </div>
   );
  }
