@@ -5,6 +5,7 @@ import './Counter.css';
 import Dynamic from './Dynamic';
 import statevsprops from './statevsprops';
 import './statevsprops.css';
+import Demogit from './Demogit';
 function App(){
   const obj={
     name:'tamil',
@@ -18,6 +19,7 @@ function App(){
     <div>
       <statevsprops/>
       changes to test github.
+      <Demogit/>
     </div>
   );
  }
